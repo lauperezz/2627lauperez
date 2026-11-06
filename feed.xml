@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title> Feed RSS- sitios dog friendly</title>
-    <link>https://lauperezz.github.io/2526lauperez</link>
-    <description>Novedades de la página</description>
+    <title>Novedades de la UD02</title>
+    <link>https://lauperezz.github.io/2627lauperez/index.html</link>
+    <description>Novedades publicadas en el sitio web de la UD02.</description>
+    <language>es</language>
+
     <item>
-      <title>Novedad en la página1</title>
-      <link>https://lauperezz.github.io/2526lauperez/playas.html</link>
-      <description>Actualización de la página 1 del sitio Sitios dog friendly</description>
-      <pubDate> Fri, 14 nov 2025 12:00:00</pubDate>
-      </item>
-    <item>
-      <title>Novedad en la página2</title>
-      <link>https://lauperezz.github.io/2526lauperez/restaurantes.html</link>
-      <description>Actualizacion de la pagina 1 del sitio Sitios dosg friendly</description>
-      <pubDate> Fri, 14 nov 2025 13:00:00</pubDate>
+      <title>Novedades en·la·pagina·de·playas</title>
+      <link>https://lauperezz.github.io/2627lauperez/playas.html</link>
+      <description>Ya disponible en la pagina de playas. Visitala para ver el contenido</description>
+      <pubDate>Fri, 06 Nov 2026 09:45:00 +0100</pubDate>
     </item>
+
+    <item>
+      <title>Novedades en la pagina de restaurantes</title>
+      <link>https://lauperezz.github.io/2627lauperez/restaurante.html</link>
+      <description>Se han añadido nuevos restaurantes a la pagina</description>
+      <pubDate>Fri, 06 Nov 2026 10:15 +0100</pubDate>
+    </item>
+
   </channel>
 </rss>
